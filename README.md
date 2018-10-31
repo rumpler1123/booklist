@@ -4,4 +4,4 @@ Javascript project
 
 skeleton cdn
 
-http://anyquery.hu/booklist/index.html
+https://rumpler1123.github.io/booklist/index.html
